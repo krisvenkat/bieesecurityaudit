@@ -1,0 +1,17 @@
+[
+{"name":"flare.Employee.Annette","size":3938,"imports":["flare.Employee.Venkat","flare.Department.HR","flare.BU.Huron Corp"]},
+{"name":"flare.Employee.Chandra","size":3938,"imports":["flare.Employee.Venkat","flare.Department.Finance","flare.BU.Huron Corp"]},
+{"name":"flare.Employee.Deepak","size":3938,"imports":["flare.Employee.Venkat","flare.Department.DeliveryDirect","flare.BU.HSS"]},
+{"name":"flare.Employee.Srini","size":3938,"imports":["flare.Employee.Venkat","flare.Department.DeliveryDirect","flare.BU.ERP"]},
+{"name":"flare.Employee.Santhosh","size":3938,"imports":["flare.Employee.Venkat","flare.Department.DeliveryDirect","flare.BU.RMI"]},
+{"name":"flare.Employee.Rashmi","size":3938,"imports":["flare.Employee.Annette","flare.Department.HR","flare.BU.Huron Corp"]},
+{"name":"flare.Employee.Sonali","size":3938,"imports":["flare.Employee.Annette","flare.Department.HR","flare.BU.Huron Corp"]},
+{"name":"flare.Employee.Venkat","size":743,"imports":["flare.Department.DeliveryDirect","flare.BU.RMI"]},
+{"name":"flare.Department.HR","size":3938,"imports":["flare.BU.Huron Corp"]},
+{"name":"flare.Department.DeliveryDirect","size":3938,"imports":["flare.BU.HSS","flare.BU.ERP","flare.BU.RMI"]},
+{"name":"flare.Department.Finance","size":3938,"imports":["flare.BU.Huron Corp"]},
+{"name":"flare.BU.Huron Corp","size":3938,"imports":[]},
+{"name":"flare.BU.HSS","size":3938,"imports":[]},
+{"name":"flare.BU.ERP","size":3938,"imports":[]},
+{"name":"flare.BU.RMI","size":3938,"imports":[]}
+]
