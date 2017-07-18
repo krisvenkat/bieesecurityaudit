@@ -4,10 +4,5 @@
 {"name":"HSS.DeliveryDirect.Deepak","size":3938,"imports":["RMI.DeliveryDirect.Venkat","HSS.DeliveryDirect"]},
 {"name":"ERP.DeliveryDirect.Srini","size":3938,"imports":["RMI.DeliveryDirect.Venkat","ERP.DeliveryDirect"]},
 {"name":"RMI.DeliveryDirect.Santhosh","size":3938,"imports":["RMI.DeliveryDirect.Venkat","RMI.DeliveryDirect"]},
-{"name":"RMI.DeliveryDirect.Venkat","size":743,"imports":[]},
-{"name":"RMI.DeliveryDirect","size":743,"imports":[]},
-{"name":"Huron.HR","size":743,"imports":[]},
-{"name":"Huron.Finance","size":743,"imports":[]},
-{"name":"HSS.DeliveryDirect","size":743,"imports":[]},
-{"name":"ERP.DeliveryDirect","size":743,"imports":[]}
+{"name":"RMI.DeliveryDirect.Venkat","size":743,"imports":[]}
 ]
