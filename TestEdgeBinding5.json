@@ -1,0 +1,13 @@
+[
+{"name":"flare.Employee.Annette","size":3938,"imports":["flare.Employee.Venkat","flare.Department.HR"]},
+{"name":"flare.Employee.Chandra","size":3938,"imports":["flare.Employee.Venkat","flare.Department.Finance"]},
+{"name":"flare.Employee.Deepak","size":3938,"imports":["flare.Employee.Venkat","flare.Department.DeliveryDirect"]},
+{"name":"flare.Employee.Srini","size":3938,"imports":["flare.Employee.Venkat","flare.Department.DeliveryDirect"]},
+{"name":"flare.Employee.Santhosh","size":3938,"imports":["flare.Employee.Venkat","flare.Department.DeliveryDirect"]},
+{"name":"flare.Employee.Rashmi","size":3938,"imports":["flare.Employee.Annette","flare.Department.HR"]},
+{"name":"flare.Employee.Sonali","size":3938,"imports":["flare.Employee.Annette","flare.Department.HR"]},
+{"name":"flare.Employee.Venkat","size":743,"imports":["flare.Department.DeliveryDirect"]},
+{"name":"flare.Department.HR","size":3938,"imports":[]},
+{"name":"flare.Department.DeliveryDirect","size":3938,"imports":[]},
+{"name":"flare.Department.Finance","size":3938,"imports":[]}
+]
