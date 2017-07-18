@@ -1,0 +1,11 @@
+[
+{"name":"Employee.Annette","size":3938,"imports":["Employee.Venkat","Department.HR"]},
+{"name":"Employee.Chandra","size":3938,"imports":["Employee.Venkat"]},
+{"name":"Employee.Deepak","size":3938,"imports":["Employee.Venkat"]},
+{"name":"Employee.Srini","size":3938,"imports":["Employee.Venkat"]},
+{"name":"Employee.Santhosh","size":3938,"imports":["Employee.Venkat"]},
+{"name":"Employee.Rashmi","size":3938,"imports":["Employee.Annette"]},
+{"name":"Employee.Sonali","size":3938,"imports":["Employee.Annette"]},
+{"name":"Department.HR","size":3938,"imports":["Employee.Venkat"]},
+{"name":"Employee.Venkat","size":743,"imports":[]}
+]
