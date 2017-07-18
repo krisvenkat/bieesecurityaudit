@@ -1,8 +1,8 @@
 [
-{"name":"RMI.Delivery Direct.Venkat","size":3938,"imports":["Huron Corp.HR.Annette","Huron Corp.Finance.Chandra","HSS.Delivery Direct.Deepak","ERP.Delivery Direct.Srini","RMI.Delivery Direct.Santhosh"]},
-{"name":"Huron Corp.HR.Annette","size":3938,"imports":["Huron Corp.HR.Rashmi","Huron Corp.Finance.Sonali"]},
-{"name":"Huron Corp.Finance.Chandra","size":3938,"imports":["Huron Corp.Finance.Nithin","Huron Corp.Finance.Vijay"]},
-{"name":"HSS.Delivery Direct.Deepak","size":3938,"imports":["HSS.Delivery Direct.Ragini","HSS.Delivery Direct.Anantha"]},
-{"name":"ERP.Delivery Direct.Srini","size":3938,"imports":["ERP.Delivery Direct.Sounder","ERP.Delivery Direct.Salil"]},
-{"name":"RMI.Delivery Direct.Santhosh","size":3938,"imports":["RMI.Delivery Direct.Kishore","RMI.Delivery Direct.Ram"]}
+{"name":"RMI.DeliveryDirect.Venkat","size":743,"imports":[]},
+{"name":"HuronCorp.HR.Annette","size":3938,"imports":["RMI.DeliveryDirect.Venkat"]},
+{"name":"HuronCorp.Finance.Chandra","size":3938,"imports":["RMI.DeliveryDirect.Venkat"]},
+{"name":"HSS.DeliveryDirect.Deepak","size":3938,"imports":["RMI.DeliveryDirect.Venkat"]},
+{"name":"ERP.DeliveryDirect.Srini","size":3938,"imports":["RMI.DeliveryDirect.Venkat"]},
+{"name":"RMI.DeliveryDirect.Santhosh","size":3938,"imports":["RMI.DeliveryDirect.Venkat"]}
 ]
